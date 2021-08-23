@@ -38,7 +38,8 @@
         ],
         "selector": {
           "name": "${NAME}"
-        }
+        },
+        "ipFamilyPolicy": "PreferDualStack"
       }
     },
     {
